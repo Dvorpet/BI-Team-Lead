@@ -163,8 +163,8 @@ PAGE = f'''<!DOCTYPE html>
 {data_panel()}
 </main>
 <footer class="foot-page">
- <p>{T('Personal solution of a case study for a job interview. Not an official Škoda Group website and not affiliated with Škoda Group; colours only loosely inspired by its visual style, no logos used.',
-       'Osobní řešení případové studie k pracovnímu pohovoru. Nejde o oficiální web Škoda Group a stránka se Škoda Group nijak nesouvisí; barvy jsou jen volně inspirované jejím vizuálním stylem, bez použití log.')}</p>
+ <p>{T('Personal solution of a case study for a job interview. Not an official Škoda Group website and not affiliated with Škoda Group; colours follow its blue-and-white style, no logos used.',
+       'Osobní řešení případové studie k pracovnímu pohovoru. Nejde o oficiální web Škoda Group a stránka se Škoda Group nijak nesouvisí; barvy vycházejí z jejího modrobílého stylu, bez použití log.')}</p>
  <p>{T('Fonts: IBM Plex Sans and Space Grotesk (SIL Open Font License).', 'Písma: IBM Plex Sans a Space Grotesk (SIL Open Font License).')}</p>
 </footer>
 <script>{JS}</script>
